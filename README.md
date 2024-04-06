@@ -1,7 +1,7 @@
 ### Olá! Eu sou Jackson Ramos
 ##
 - 🔭 Eu sou estudante de programação
-- 🌱 Estou estudando React e JavaSccript 
+- 🌱 Estou estudando Java Spring Boot 
 - 😄 Pronouns: ele/dele
 
 <div>
