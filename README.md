@@ -1,6 +1,9 @@
 ### Olá! Eu sou Jackson Ramos
 ##
-- 🔭 Eu sou estudante de programação
+- 🔭 Olá! Me chamo Jackson sou apaixonado por tecnologia e estudo programação,
+ estou sempre em busca de novos conhecimentos e desafios.
+ Gosto de aprender e explorar as possibilidades que a programação oferece.
+ Vamos trocar ideias e crescer juntos nesse mundo incrível da tecnologia! 🚀💻
 - 🌱 Estou estudando Java Spring Boot 
 - 😄 Pronouns: ele/dele
 
